@@ -1,0 +1,21 @@
+<div className="col-4">
+                    <div className="row">
+                        Parcel1
+                        <div className="col mred">1</div>
+                        <div className="col mred">2</div>
+                        <div className="col mred">3</div>
+                    </div>
+                </div>
+                <div className="col-3">
+                    <div className="row">
+                        <div className="col dyellow">4</div>
+                        <div className="col dyellow">5</div>
+                    </div>
+                </div>
+                <div className="col-4">
+                    <div className="row">
+                        <div className="col kblue">6</div>
+                        <div className="col kblue">7</div>
+                        <div className="col kblue">8</div>
+                    </div>
+                </div>

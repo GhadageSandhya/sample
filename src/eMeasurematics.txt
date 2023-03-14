@@ -1,0 +1,9 @@
+eMeasurematics Pvt Ltd---23/02/2023
+
+what exactly involve in your project?
+what is DOM manipulation?
+what is callback function?
+what is superconstructor?
+Difference btween JS and React?
+why we use ReactJs?
+Difference btween flex & inline-block?
